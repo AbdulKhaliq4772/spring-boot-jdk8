@@ -6,6 +6,6 @@
 
     <logger name="org.springframework.web" level="DEBUG"/>
 
-    <logger name="hello" level="DEBUG"/>
+    <logger name="gateway" level="DEBUG"/>
 
 </configuration>
